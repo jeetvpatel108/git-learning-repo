@@ -1,0 +1,26 @@
+ Project4 Reader   -display name 
+
+project4-reader - user principal name 
+
+
+C:\Users\jeetv\OneDrive\Desktop\codex\main.js
+
+
+
+10.10.1.4 ----vm On premise
+
+10.0.1.4  ------vm Azure
+
+
+Password:Project5VPNKey123!
+
+
+git remote add origin https://github.com/jeetvpatel108/azure-hybrid-vpn-project5.git
+
+
+git remote add origin https://autoexpo@dev.azure.com/autoexpo/auto%20expo/_git/auto%20expo
+git push -u origin --all
+
+
+git remote add origin https://autoexpo@dev.azure.com/autoexpo/auto%20expo/_git/auto%20expo
+git push -u origin --all
